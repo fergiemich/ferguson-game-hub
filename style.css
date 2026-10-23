@@ -1,0 +1,7 @@
+*{box-sizing:border-box}body{margin:0;font-family:"Comic Sans MS","Chalkboard SE",system-ui,sans-serif;background:linear-gradient(160deg,#ffe259,#ffa751 40%,#ff6fd8);min-height:100vh;color:#2b2140;text-align:center}
+h1{font-size:2.6em;margin:.4em 0 .1em;text-shadow:3px 3px 0 #fff}h2{margin:.3em}
+.btn{font:inherit;font-size:1.3em;border:none;border-radius:18px;padding:.6em 1.2em;margin:.3em;cursor:pointer;background:#4c6ef5;color:#fff;box-shadow:0 5px 0 #2b3fa8;text-decoration:none;display:inline-block}
+.btn:active{transform:translateY(4px);box-shadow:0 1px 0 #2b3fa8}.btn.g{background:#2fb344;box-shadow:0 5px 0 #1b7a2b}.btn.r{background:#f03e3e;box-shadow:0 5px 0 #a51d1d}.btn.p{background:#ae3ec9;box-shadow:0 5px 0 #6f1f84}
+.box{background:#fff;border-radius:24px;padding:1em;margin:1em auto;max-width:760px;box-shadow:0 8px 0 rgba(0,0,0,.15)}
+.big{font-size:3em}.msg{font-size:1.5em;min-height:1.6em;font-weight:bold}.home{position:fixed;top:10px;left:10px;font-size:1em}
+.score{font-size:1.3em;font-weight:bold}
